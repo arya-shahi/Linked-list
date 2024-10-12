@@ -57,3 +57,10 @@ int main() {
 
     return 0;
 }
+
+/*
+4 NULL
+5 4 NULL
+5 4 3 NULL
+5 4 3 6 NULL
+    */
